@@ -1,9 +1,13 @@
 ## Hi, I'm Gwyneth! 🤗
 
 👩🏻‍💻 Information Systems Engineering Student
-👩🏻‍🎓 Study at the [Peruvian University of Applied Sciences](https://www.upc.edu.pe) 
+
+👩🏻‍🎓 Study at the [Peruvian University of Applied Sciences](https://www.upc.edu.pe)
+ 
 🏆 Member of Competitive Programming Group (GPC)
+
 💪🏻 Enjoy facing new challenges and learn new things
+
 🐶 Love to read and play with muy puppies
 
 ### 🌐 Socials
