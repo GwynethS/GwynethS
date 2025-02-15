@@ -11,7 +11,9 @@
 🐶 Love to read and play with muy puppies
 
 ### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gwyneth-lyu-gisele-segura-silva-7a74bb269)
+<a href="https://www.linkedin.com/in/gwyneth-lyu-gisele-segura-silva-7a74bb269" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 ### 💻 Tech Stack:
 
